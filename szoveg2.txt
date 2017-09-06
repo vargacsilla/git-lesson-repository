@@ -1,0 +1,6 @@
+ezt bele szeretenem tenni egy fajlba
+most kiegesztiem vimben ezt a fajlt, hogy maskepp nezzen ki a tartalma, mint az elozo fajle
+1. rendeznivalo
+4. ajjaj de rossz sorrendben
+3. szerencse, hogy van erre command
+2. es igy nyugodtan alhatunk
